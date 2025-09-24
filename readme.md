@@ -1,11 +1,11 @@
-# 📌 AI Location Search
+# AI Location Search
 
 Aplikasi pencarian lokasi menggunakan **FastAPI (Backend)** + **React/Next.js (Frontend)** + **Ollama (LLaMA 3)** + **OpenStreetMap (Nominatim API)**.  
 User cukup masukkan query (contoh: *"cafe kopi enak di Bandung"*) → AI konversi query ke parameter OSM → hasil ditampilkan di grid + embedded map.
 
 ---
 
-## ⚡ Install Ollama
+## Install Ollama
 
 ### 🔹 Linux
 ```bash
